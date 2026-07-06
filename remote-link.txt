@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://eden-corporate-was-titanium.trycloudflare.com/vnc.html
+URL       : https://integrated-jazz-garbage-project.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-05 21:03:33
+Created   : 2026-07-06 03:37:35
 =======================================================
