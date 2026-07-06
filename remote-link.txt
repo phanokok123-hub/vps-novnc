@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://integrated-jazz-garbage-project.trycloudflare.com/vnc.html
+URL       : https://diamonds-lid-both-arlington.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-06 03:37:35
+Created   : 2026-07-06 09:03:33
 =======================================================
