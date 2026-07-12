@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://phases-collectors-examining-bandwidth.trycloudflare.com/vnc.html
+URL       : https://tale-manager-pad-plots.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-12 11:12:08
+Created   : 2026-07-12 16:02:48
 =======================================================
