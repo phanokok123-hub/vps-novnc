@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://internship-pharmacy-assumption-intended.trycloudflare.com/vnc.html
+URL       : https://atmospheric-config-ascii-ensuring.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 02:52:33
+Created   : 2026-07-31 07:52:41
 =======================================================
