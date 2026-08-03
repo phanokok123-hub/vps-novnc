@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://costs-combines-beginners-funeral.trycloudflare.com/vnc.html
+URL       : https://stan-ftp-centers-week.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 17:13:01
+Created   : 2026-08-03 21:05:27
 =======================================================
