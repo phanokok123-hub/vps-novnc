@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://prize-charlotte-charles-reflects.trycloudflare.com/vnc.html
+URL       : https://mortality-hospitals-double-beaver.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-03 02:51:17
+Created   : 2026-08-03 08:31:45
 =======================================================
