@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://chart-charts-oxygen-intent.trycloudflare.com/vnc.html
+URL       : https://maximum-aruba-natural-philips.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 07:41:35
+Created   : 2026-08-05 12:03:20
 =======================================================
