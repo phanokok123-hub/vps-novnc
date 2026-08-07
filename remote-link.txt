@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://insured-how-athletics-shape.trycloudflare.com/vnc.html
+URL       : https://config-ranked-tech-modelling.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 00:55:24
+Created   : 2026-08-07 06:12:14
 =======================================================
