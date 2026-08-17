@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://mirrors-burning-joins-efforts.trycloudflare.com/vnc.html
+URL       : https://lan-circuit-meets-onto.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-16 20:28:36
+Created   : 2026-08-17 01:17:42
 =======================================================
