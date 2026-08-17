@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://merely-tolerance-sufficiently-concern.trycloudflare.com/vnc.html
+URL       : https://replication-savannah-coordinate-sensors.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 10:35:32
+Created   : 2026-08-17 15:27:14
 =======================================================
