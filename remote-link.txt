@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lan-circuit-meets-onto.trycloudflare.com/vnc.html
+URL       : https://laura-dealt-beginners-pilot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 01:17:42
+Created   : 2026-08-17 05:36:59
 =======================================================
