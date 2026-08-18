@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://toe-ink-dom-sought.trycloudflare.com/vnc.html
+URL       : https://thru-your-fully-centres.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-17 20:29:30
+Created   : 2026-08-18 01:15:12
 =======================================================
