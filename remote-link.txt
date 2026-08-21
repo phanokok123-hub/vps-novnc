@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://char-staff-mistakes-lunch.trycloudflare.com/vnc.html
+URL       : https://cellular-encouraged-investors-recorder.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-21 15:35:29
+Created   : 2026-08-21 20:27:41
 =======================================================
