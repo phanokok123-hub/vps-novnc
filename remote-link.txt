@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://groups-runner-per-sufficiently.trycloudflare.com/vnc.html
+URL       : https://are-las-ones-cruise.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 07:52:42
+Created   : 2026-08-27 20:12:37
 =======================================================
