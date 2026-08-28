@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://are-las-ones-cruise.trycloudflare.com/vnc.html
+URL       : https://fixes-exams-lakes-infrared.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-27 20:12:37
+Created   : 2026-08-28 21:09:54
 =======================================================
