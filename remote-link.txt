@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://agenda-printable-median-boulevard.trycloudflare.com/vnc.html
+URL       : https://edmonton-operate-progressive-submissions.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-06 03:17:57
+Created   : 2026-09-06 09:13:14
 =======================================================
