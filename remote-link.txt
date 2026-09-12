@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://scientific-democracy-transmission-psychology.trycloudflare.com/vnc.html
+URL       : https://three-magnificent-que-profession.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 13:24:47
+Created   : 2026-09-12 17:44:16
 =======================================================
