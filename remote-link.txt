@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://critical-reed-warner-amend.trycloudflare.com/vnc.html
+URL       : https://explosion-receive-portions-macintosh.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-11 22:19:51
+Created   : 2026-09-12 03:33:02
 =======================================================
