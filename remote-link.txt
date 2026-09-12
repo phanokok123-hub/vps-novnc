@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ipod-reproductive-hence-ste.trycloudflare.com/vnc.html
+URL       : https://scientific-democracy-transmission-psychology.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 09:05:07
+Created   : 2026-09-12 13:24:47
 =======================================================
