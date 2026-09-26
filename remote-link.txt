@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://resulting-sufficient-instruments-distant.trycloudflare.com/vnc.html
+URL       : https://investigations-becoming-spirituality-isolated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-26 14:13:04
+Created   : 2026-09-26 18:26:07
 =======================================================
