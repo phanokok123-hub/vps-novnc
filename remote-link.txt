@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://substantially-plots-paper-forum.trycloudflare.com/vnc.html
+URL       : https://ottawa-twice-invalid-drop.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-29 11:12:00
+Created   : 2026-09-29 19:50:40
 =======================================================
