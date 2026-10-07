@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://adds-flux-earnings-oak.trycloudflare.com/vnc.html
+URL       : https://babies-precious-pts-utc.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-07 11:35:37
+Created   : 2026-10-07 20:27:49
 =======================================================
