@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nerve-shell-reservation-materials.trycloudflare.com/vnc.html
+URL       : https://paper-emily-surgery-cities.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 19:10:16
+Created   : 2026-10-10 23:19:39
 =======================================================
