@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://injured-requested-medical-ski.trycloudflare.com/vnc.html
+URL       : https://usc-thought-seminars-overcome.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-14 23:02:34
+Created   : 2026-10-15 03:36:45
 =======================================================
