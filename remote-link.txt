@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://patents-sur-firewall-bride.trycloudflare.com/vnc.html
+URL       : https://sandy-lucia-there-broadcasting.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-16 18:41:23
+Created   : 2026-10-16 22:39:20
 =======================================================
